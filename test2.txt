@@ -1,3 +1,7 @@
  this is tarun
+<<<<<<< HEAD
 this is teja
 this is another line by teja
+=======
+this is tarun 22
+>>>>>>> a5d2dfc535ffd9bc8d43cac7af09f8a60c9a1dbf
